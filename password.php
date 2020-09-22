@@ -12,7 +12,7 @@ $TBLPFX = 'wt_';
 $EMAIL  = 'sajara.webtrees@gmail.com';
 
 // This is the new password
-$PASSWD = 'IgnatusAkiraWiltNeon#26#?2020';
+$PASSWD = 'password';
 
 $pdo = new PDO(
   (substr($DBHOST, 0, 1) === '/' ?
