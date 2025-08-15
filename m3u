@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 channel-id="1" channel-number="1" tvg-name="TF1" group-title="Favorites",1 TF1
+http://hdhr-1230226d.local:5004/auto/v1
+#EXTINF:-1 channel-id="2" channel-number="2" tvg-name="France 2" group-title="Favorites",2 France 2
+http://hdhr-1230226d.local:5004/auto/v2
+#EXTINF:-1 channel-id="3" channel-number="3" tvg-name="F3 Paris Ile-de" group-title="Favorites",3 F3 Paris Ile-de
+http://hdhr-1230226d.local:5004/auto/v3
+#EXTINF:-1 channel-id="4" channel-number="4" tvg-name="France 4" group-title="Favorites",4 France 4
+http://hdhr-1230226d.local:5004/auto/v4
+#EXTINF:-1 channel-id="5" channel-number="5" tvg-name="France 5" group-title="Favorites",5 France 5
+http://hdhr-1230226d.local:5004/auto/v5
+#EXTINF:-1 channel-id="6" channel-number="6" tvg-name="M6" group-title="Favorites",6 M6
+http://hdhr-1230226d.local:5004/auto/v6
+#EXTINF:-1 channel-id="7" channel-number="7" tvg-name="Arte" group-title="Favorites",7 Arte
+http://hdhr-1230226d.local:5004/auto/v7
+#EXTINF:-1 channel-id="8" channel-number="8" tvg-name="LCP" group-title="Favorites",8 LCP
+http://hdhr-1230226d.local:5004/auto/v8
+#EXTINF:-1 channel-id="9" channel-number="9" tvg-name="W9" group-title="Favorites",9 W9
+http://hdhr-1230226d.local:5004/auto/v9
+#EXTINF:-1 channel-id="10" channel-number="10" tvg-name="TMC" group-title="Favorites",10 TMC
+http://hdhr-1230226d.local:5004/auto/v10
+#EXTINF:-1 channel-id="11" channel-number="11" tvg-name="TFX" group-title="Favorites",11 TFX
+http://hdhr-1230226d.local:5004/auto/v11
+#EXTINF:-1 channel-id="12" channel-number="12" tvg-name="Gulli" group-title="Favorites",12 Gulli
+http://hdhr-1230226d.local:5004/auto/v12
+#EXTINF:-1 channel-id="13" channel-number="13" tvg-name="BFM TV" group-title="Favorites",13 BFM TV
+http://hdhr-1230226d.local:5004/auto/v13
+#EXTINF:-1 channel-id="14" channel-number="14" tvg-name="CNEWS" group-title="Favorites",14 CNEWS
+http://hdhr-1230226d.local:5004/auto/v14
+#EXTINF:-1 channel-id="15" channel-number="15" tvg-name="LCI" group-title="Favorites",15 LCI
+http://hdhr-1230226d.local:5004/auto/v15
+#EXTINF:-1 channel-id="16" channel-number="16" tvg-name="franceinfo:" group-title="Favorites",16 franceinfo:
+http://hdhr-1230226d.local:5004/auto/v16
+#EXTINF:-1 channel-id="17" channel-number="17" tvg-name="CSTAR" group-title="Favorites",17 CSTAR
+http://hdhr-1230226d.local:5004/auto/v17
+#EXTINF:-1 channel-id="18" channel-number="18" tvg-name="T18" group-title="Favorites",18 T18
+http://hdhr-1230226d.local:5004/auto/v18
+#EXTINF:-1 channel-id="19" channel-number="19" tvg-name="NOVO19",19 NOVO19
+http://hdhr-1230226d.local:5004/auto/v19
+#EXTINF:-1 channel-id="20" channel-number="20" tvg-name="TF1 Séries Fil" group-title="Favorites",20 TF1 Séries Fil
+http://hdhr-1230226d.local:5004/auto/v20
+#EXTINF:-1 channel-id="21" channel-number="21" tvg-name="L'Equipe" group-title="Favorites",21 L'Equipe
+http://hdhr-1230226d.local:5004/auto/v21
+#EXTINF:-1 channel-id="22" channel-number="22" tvg-name="6ter" group-title="Favorites",22 6ter
+http://hdhr-1230226d.local:5004/auto/v22
+#EXTINF:-1 channel-id="23" channel-number="23" tvg-name="RMC STORY" group-title="Favorites",23 RMC STORY
+http://hdhr-1230226d.local:5004/auto/v23
+#EXTINF:-1 channel-id="24" channel-number="24" tvg-name="RMC Découverte" group-title="Favorites",24 RMC Découverte
+http://hdhr-1230226d.local:5004/auto/v24
+#EXTINF:-1 channel-id="25" channel-number="25" tvg-name="Chérie 25" group-title="Favorites",25 Chérie 25
+http://hdhr-1230226d.local:5004/auto/v25
+#EXTINF:-1 channel-id="26" channel-number="26" tvg-name="PARIS PREMIERE" group-title="Favorites",26 PARIS PREMIERE
+http://hdhr-1230226d.local:5004/auto/v26
+#EXTINF:-1 channel-id="32" channel-number="32" tvg-name="20 minutes TV" group-title="Favorites",32 20 minutes TV
+http://hdhr-1230226d.local:5004/auto/v32
+#EXTINF:-1 channel-id="52" channel-number="52" tvg-name="France 2 UHD" group-title="Favorites",52 France 2 UHD
+http://hdhr-1230226d.local:5004/auto/v52
